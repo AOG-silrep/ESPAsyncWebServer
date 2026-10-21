@@ -23,9 +23,8 @@
   ],
   "dependencies": [
     {
-      "owner": "ESP32Async",
       "name": "AsyncTCP",
-      "version": "^3.5.0",
+      "version": "https://github.com/AOG-silrep/AsyncTCP.git#main",
       "platforms": [
         "espressif32",
         "libretiny"
